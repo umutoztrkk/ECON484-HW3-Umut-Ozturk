@@ -4,7 +4,6 @@
 **Course:** ECON484 – The Entropy of Intelligence & Drift Detection  
 **Dataset:** [Air Quality in India (2015–2024) – Kaggle](https://www.kaggle.com/datasets/ankushpanday1/air-quality-data-in-india-2015-2024/data) 
 
-**My Experiment:** [AirQualityIndia-HW3](https://www.kaggle.com/code/marwaahmed11/econ484-hw3)  
 **Date:** May 2026
 
 ---
